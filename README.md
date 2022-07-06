@@ -1,2 +1,2 @@
 # Personal_site_test
-Working on my own personal site written by HTML
+Работаю над своим персональным сайтом (HTML,CSS,JS)
